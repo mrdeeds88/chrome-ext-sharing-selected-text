@@ -1,0 +1,14 @@
+#myPopover {
+  position: absolute !important;
+  background-color: #f9f9f9 !important;
+  border: 1px solid #ccc !important;
+  padding: 10px !important;
+  z-index: 1000 !important;
+  max-width: 500px !important;
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+}
+button {
+  margin: 0 10px !important;
+}
